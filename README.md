@@ -2,7 +2,7 @@
 一个简单精美的雷达数据统计图
 ![雷达数据统计数](https://github.com/Grrsun/RadarStatisticsView/blob/master/images/RadarStatisticsView.png)
 
-### Useage
+### Use
 #### 1、引入依赖
 ```
         implementation 'com.jersay.android:radarstatisticsview:1.0.0
