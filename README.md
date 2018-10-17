@@ -9,10 +9,9 @@
 ```
 #### 2、在XML中添加view
 ```
-        <com.zxm.radarstatisticsview.RadarStatisticsView
-        android:id="@+id/radar_statistics_view"
-        android:layout_width="match_parent"
-        android:layout_height="300dp" />
+        <com.jersay.radarstatisticsview.RadarStatisticsView
+            android:layout_width="match_parent"
+            android:layout_height="300dp" />
 ```
 #### 3、设置数据和属性
 ```
