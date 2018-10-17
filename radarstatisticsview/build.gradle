@@ -31,7 +31,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
 
-version = "1.0.0"//定义版本标识
+version = "1.0.1"//定义版本标识
 
 def siteUrl = 'https://github.com/JersayZhang/RadarStatisticsView'                        // #CONFIG# // project homepage
 def gitUrl = 'https://github.com/JersayZhang/RadarStatisticsView.git'                     // #CONFIG# // project git
