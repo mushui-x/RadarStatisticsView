@@ -5,7 +5,7 @@
 ### Use
 #### 1、引入依赖
 ```
-        implementation 'com.jersay.android:radarstatisticsview:1.0.1
+        implementation 'com.jersay.android:radarstatisticsview:1.0.1'
 ```
 #### 2、在XML中添加view
 ```
